@@ -1,11 +1,8 @@
  import java.io.*;
  import java.net.*;
- import java.lang.*;
- import java.awt.Image.*;
- import java.awt.Graphics;
-import java.awt.Image;
-import java.awt.image.BufferedImage;
-import javax.imageio.ImageIO;
+ import java.awt.image.BufferedImage;
+ import javax.imageio.ImageIO;
+ import java.nio.ByteBuffer;
  public class client {
  // public static void main(String[] args) {
  //
